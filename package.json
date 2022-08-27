@@ -1,8 +1,12 @@
 {
   "name": "vue3-draggable-div",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Roy",
   "description": "a simple vue3 draggable panel component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngelaDaddyRoy/vue3-draggable-div"
+  },
   "main": "dist/vue3-draggable-div.ssr.js",
   "browser": "dist/vue3-draggable-div.esm.js",
   "module": "dist/vue3-draggable-div.esm.js",
