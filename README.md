@@ -5,6 +5,7 @@
 ```html
 <DragablePanel width="810px">
 <!--内容-->
+<!--组件自动寻找id="header"的元素，若找到，则以此元素作为拖拽点；未找到时整个div作为拖拽点-->
 </DragablePanel>
 ```
 ## 3. 参数
@@ -14,3 +15,4 @@
 - `on-begin-drag`: 开始拖拽
 - `on-dragging`：拖拽中
 - `on-end-drag`：结束拖拽
+
